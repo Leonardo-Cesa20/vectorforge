@@ -1,0 +1,5 @@
+Futuro modelo opcional:
+
+vectorforge_classifier.onnx
+
+Nenhum modelo treinado está incluído nesta versão.

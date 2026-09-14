@@ -1,0 +1,19 @@
+{
+  "art_type": "logo",
+  "profile": "engraving",
+  "selected_candidate": "Percentile 15",
+  "candidate_score": 104.993,
+  "coverage": 0.1508,
+  "components": 22,
+  "holes_detected": 116,
+  "border_noise": 0.0,
+  "shapes": 22,
+  "holes": 21,
+  "nodes": 1572,
+  "crop_rect": [
+    524,
+    264,
+    1000,
+    1520
+  ]
+}
